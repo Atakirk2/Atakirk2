@@ -9,8 +9,8 @@ I've been learning programming for 4 years and I am dealing with Front-End for 2
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [Atakirk](http://https://atakirk2.github.io)
 * ✉️  You can contact me at [ataberk.yavuzyasar@gmail.com](mailto:ataberk.yavuzyasar@gmail.com)
-* 🚀  I'm currently working on [Netflix Clone Project](https://netflix-clone-7e86a.web.app)
-* 🧠  I'm learning React.js
+* 🚀  I'm currently working on Barcelona Supercomputing Center as Software Intern
+* 🧠  I'm learning PyTorch and Quantization of Deep Learning Models
 * 🤝  I'm open to collaborating on interesting projects
 
 ### Skills
