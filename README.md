@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer
 -------------------
 
-I've been learning programming for 4 years and I am dealing with Front-End for 2 years. My passion is to learn something new and create something with the knowledge I have learned. I am currently interested in React and I am trying to improve myself in this regard.
+I've been learning programming for 4 years and I am dealing with Deep Learning currently. My passion is to learn something new and create something with the knowledge I have learned. I am currently interested in Convolutional Neural Networks and Quantization and I am trying to improve myself in this regard.
 
 * 🌍  I'm based in Turkey
 * 🖥️  See my portfolio at [Atakirk](http://https://atakirk2.github.io)
